@@ -40,9 +40,9 @@
 
 ### Informacion sobre mi:
 <hr>
-- 🔭 Actualmente me encuentro cursando una Tecnicatura Universitaria en Programacion (UTN)
-- 🌱 Actualmente estoy aprendiendo <strong>React JS</strong>
-- 🔍 Busco colaborar en <strong>Proyectos de desarrollo web front-end</strong>
+- 🔭 Actualmente me encuentro cursando una Tecnicatura Universitaria en Programacion (UTN) <br></br>
+- 🌱 Actualmente estoy aprendiendo <strong>React JS</strong><br></br>
+- 🔍 Busco colaborar en <strong>Proyectos de desarrollo web front-end</strong><br></br>
 - ⚡ Dato Curioso: Soy fanatico de 9z y del mate.
 <br/><br/>
 
